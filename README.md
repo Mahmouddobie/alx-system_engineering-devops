@@ -1,1 +1,1 @@
-read mec
+this is my readme
